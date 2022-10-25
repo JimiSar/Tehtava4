@@ -1,0 +1,4 @@
+auto car
+talo house
+kello clock
+puhelin phone
